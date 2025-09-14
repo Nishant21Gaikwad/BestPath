@@ -548,8 +548,3 @@ const App = () => {
 
 export default App;
 
-git init -b main
-git add .
-git commit -m "Initial commit: Add application files"
-git remote add origin https://github.com/Nishant21Gaikwad/BestPath.git
-git push -u origin main
